@@ -1,4 +1,4 @@
-Let me provide a comprehensive rewrite of the Pharmacy Management System documentation with enhanced UI/UX flows and detailed explanations.
+Pharmacy Management System 
 
 ### Overview
 
